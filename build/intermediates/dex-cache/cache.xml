@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/oyty/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/oyty/Documents/workspace/workspace-syt/ResideMenu/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-c0e52be6092702ceef833d0b17971e3385fae350.jar" />
+    </item>
+    <item
+        jar="/Users/oyty/Documents/workspace/workspace-syt/ResideMenu/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/oyty/Documents/workspace/workspace-syt/ResideMenu/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-21500f4953db7dfa99ba56705ca655e668d88c7d.jar" />
+    </item>
+
+</items>

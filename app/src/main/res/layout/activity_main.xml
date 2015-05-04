@@ -1,0 +1,34 @@
+<com.oyty.ui.widget.ResideMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mResideMenuLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:scrollbars="none" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"  >
+
+        <fragment
+            android:id="@+id/mMenuLayout"
+            android:name="com.oyty.ui.fragment.MenuFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:id="@+id/mShadowIv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/shadow"
+            android:scaleType="fitXY" />
+
+        <fragment
+            android:id="@+id/mContentLayout"
+            android:name="com.oyty.ui.fragment.HomeFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/white"
+            android:layout_toRightOf="@id/mMenuLayout"  />
+    </RelativeLayout>
+
+</com.oyty.ui.widget.ResideMenu>
