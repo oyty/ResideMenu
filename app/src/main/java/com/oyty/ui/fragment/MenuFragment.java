@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
 import com.oyty.residemenu.R;
 import com.oyty.ui.activity.DiscoverActivity;
@@ -59,7 +60,8 @@ public class MenuFragment extends Fragment implements View.OnClickListener {
                 intent = new Intent(context, SettingActivity.class);
                 break;
         }
-        context.startActivity(intent);
+        Toast.makeText(context, "hahahahhaha",  Toast.LENGTH_LONG).show();
+//        context.startActivity(intent);
 
     }
 

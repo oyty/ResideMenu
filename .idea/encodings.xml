@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-1024x600" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-1024x768" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-1184x720" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-1196x720" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-1280x720" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-1280x800" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-1812x1080" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-1920x1080" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-2560x1440" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-480x320" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-800x480" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-854x480" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-960x540" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="UTF-8" />
+  </component>
 </project>
 

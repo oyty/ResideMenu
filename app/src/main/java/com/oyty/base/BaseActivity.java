@@ -18,7 +18,7 @@ public abstract class BaseActivity extends Activity {
 
         setContentView(initLayoutId());
 
-        initHeadTitle();
+//        initHeadTitle();
 
         initView();
 
